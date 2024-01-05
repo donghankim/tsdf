@@ -1,0 +1,4 @@
+open3d
+numba
+opencv_python
+scikit_image
